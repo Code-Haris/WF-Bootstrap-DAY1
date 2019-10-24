@@ -1,0 +1,10 @@
+.col-md-2,
+.col-sm {
+    text-align: justify;
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+#pid {
+    display: none;
+}
